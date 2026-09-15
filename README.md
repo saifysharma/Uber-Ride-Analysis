@@ -108,9 +108,9 @@ The Power BI report contains five analytical pages:
 
 ![Operations & Unsuccessful Bookings](PowerBI/02_Operations_and_Unsuccessful_Bookings.png)
 
-### Revenue & Customer Insights
+### Revenue & Performance
 
-![Revenue & Customer Insights](PowerBI/03_Revenue_and_Customer_Insights.png)
+![Revenue & Performance](PowerBI/03_Revenue_and_Performance.png)
 
 ### Vehicle Performance
 
