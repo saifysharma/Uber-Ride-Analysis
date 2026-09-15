@@ -102,23 +102,23 @@ The Power BI report contains five analytical pages:
 
 ### Executive Business Overview
 
-[Executive Business Overview](PowerBI/01_Executive_Business_Overview.png)
+![Executive Business Overview](PowerBI/01_Executive_Business_Overview.png)
 
 ### Operations & Unsuccessful Bookings
 
-[Operations & Unsuccessful Bookings](PowerBI/02_Operations_and_Unsuccessful_Bookings.png)
+![Operations & Unsuccessful Bookings](PowerBI/02_Operations_and_Unsuccessful_Bookings.png)
 
 ### Revenue & Customer Insights
 
-[Revenue & Customer Insights](PowerBI/03_Revenue_and_Customer_Insights.png)
+![Revenue & Customer Insights](PowerBI/03_Revenue_and_Customer_Insights.png)
 
 ### Vehicle Performance
 
-[Vehicle Performance](PowerBI/04_Vehicle_Performance.png)
+![Vehicle Performance](PowerBI/04_Vehicle_Performance.png)
 
 ### Location & Ride Patterns
 
-[Location & Ride Patterns](PowerBI/05_Location_and_Ride_Patterns.png)
+![Location & Ride Patterns](PowerBI/05_Location_and_Ride_Patterns.png)
 
 ## Project Deliverables
 
